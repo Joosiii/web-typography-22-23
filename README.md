@@ -49,6 +49,9 @@ Wanneer deel 2 van het fragment begint start er een sciencefiction muziekje op d
 #### Ringtone
 De ringtone die in deel 2 voorkomt heb ik simpel vormgegeven met een kleine trilling van het scherm. Deze ringtone valt bij het beluisteren van het fragment niet echt op, dus deze moet ook subtiel zijn. De trilling is daarom ook korter en minder heftig dan bijvoorbeeld de trilling van het alarm.
 
+#### Pauze
+In deel 2 van de scène antwoord de hoofdpersoon vaak twijfelachtig, en vindt er een soort pauze plaats voordat hij antwoord geeft. Om deze pauze aan te geven aan de kijker laat ik eerst drie puntjes zien voordat het antwoord in beeld komt. Zo geef ik aan dat er eigenlijk gewacht wordt op het antwoord en dat het te lang duurt.
+
 ## Exclusive Design Principles
 De 'Exclusive Design Principles' zijn principes die je helpen bij het ontwerpen van een product of opdracht voor een exclusief persoon. Deze principes heb ik meegenomen en getoetst tijdens het maken van deze opdracht, en ik zal dan ook bespreken hoe deze hiermee samenhangen.
 
